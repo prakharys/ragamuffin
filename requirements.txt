@@ -2,3 +2,4 @@ numpy
 openai
 faiss-cpu
 rank-bm25
+datasets
